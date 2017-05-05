@@ -1,0 +1,7 @@
+#Wed Apr 05 18:44:14 EDT 2017
+base.0=C\:\\Users\\zachb\\Documents\\MoveFace Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ea31ae53aff0f395f2b3e3202ab007c62e918fc9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\zachb\\Documents\\MoveFace Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cc0ee3aaf9f829de126ed59988a8d13495b18d2c\\classes.dex
+base.1=C\:\\Users\\zachb\\Documents\\MoveFace Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_cc0ee3aaf9f829de126ed59988a8d13495b18d2c
+file.0=C\:\\Users\\zachb\\Documents\\MoveFace Project\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ea31ae53aff0f395f2b3e3202ab007c62e918fc9\\classes.dex

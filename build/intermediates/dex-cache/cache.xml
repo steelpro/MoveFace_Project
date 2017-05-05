@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\ef9442b21fd918d601ae209bf4d8712f3d3d4242\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69ea788a3d565ef880f5aaa62aa210e8de90498b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\7e86b7be61324be8910fb2ab08c51f8e2c68fb6b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_981930d358b184afeb1196fd7ba9272167e8a1ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ea31ae53aff0f395f2b3e3202ab007c62e918fc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\6e5be0dd9cbdfbec87fd5fe06d0a8d53c9b535af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e62b8d22969e51a8e8d4ee6269d824dee206c028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\d33857fa06c7ddcbbcff65d5be8fbcccf921aa33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46e2384401263f5684c909ff272822fda9f3693f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\f8ff2e070f10cabfffc01c4a371272223080fd52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb42ab2f1c5e96dd64366b5550781b10f80be0c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\cdafedc2c5fb7458ed8942d93efc81d8357074c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a8428e07a67fd85228c53fce83984581db788d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\d489a3db578b8683217b6a18ebc0a322b0fcf71b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b652fb1fd8e500361e74407174913c6655f5fa09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\44915d18c6cafeaf89257417073327d2c6bef04e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad653f02b817c09b2781865f95589073ccac57bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\1f310911068a10f09ade033ed414e3427dbe3c2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cca27cea70efc496c282eae0aea04b78761a50ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\c808b6a8fba675dba11ec1d80448f2763d29288d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca14a3de2cf2beca8e45801f14c2861c1278c2e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="10c6a9d6aed80cd0d4ff12e41907b03222db80d1">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cc0ee3aaf9f829de126ed59988a8d13495b18d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\818843e14797a73c157a7f4e2f21cd87744f5b14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ed78ab01c118a3311a2d7c05708ad4ffb2cce3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zachb\.android\build-cache\c13966e477b098b660126769d30e16bf07d7e688\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\zachb\Documents\MoveFace Project\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7192f91bbea0a6ff8e9b17a1cf91ccb7579eebfa\classes.dex" />
+    </item>
+
+</items>

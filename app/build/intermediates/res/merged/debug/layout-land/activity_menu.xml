@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:baselineAligned="false">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/activity_menu">
+
+        <TextView
+            android:text="Pin The Head on the Professor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:id="@+id/textView"
+            android:textSize="36sp"
+            android:textStyle="normal|bold"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:text="Choose your Character!"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:textSize="24sp"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="46dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnMailman"
+            android:background="@drawable/mailhead"
+            android:text="  "
+            android:textSize="36sp"
+            android:layout_alignBaseline="@+id/btnLu"
+            android:layout_alignBottom="@+id/btnLu"
+            android:layout_alignEnd="@+id/textView" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnLu"
+            android:background="@drawable/luhead"
+            android:textAlignment="center"
+            android:elevation="0dp"
+            android:text="    "
+            android:textSize="36sp"
+            android:layout_marginBottom="22dp"
+            android:layout_above="@+id/btnStart"
+            android:layout_toStartOf="@+id/btnStart" />
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="START!"
+            android:onClick="onBtnSendClick"
+            android:background="@android:drawable/btn_default"
+            android:textStyle="normal|bold|italic"
+            android:textSize="24sp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="17dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>
